@@ -12,5 +12,7 @@ vi .env
 # Start
 docker-compose up -d
 
+Go to https://domain.com and set it up.
+
 # Stop
 docker-compose down
